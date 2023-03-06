@@ -1,0 +1,292 @@
+[
+
+    {
+        "id": 1,
+        "categoryId": 1,
+        "model": "Zadar",
+        "brand": "XAOC Devices",
+        "type": "Quad Envelope",
+        "price": 379,
+        "stock": 6,
+        "img": "https://firebasestorage.googleapis.com/v0/b/space-cat-synths.appspot.com/o/01-xaocdevices_zadar.jpg?alt=media&token=43053d81-4b77-4b57-86b8-b44e1569128b",
+        "features": "The XAOC Zadar is a widely configurable function generator which redefines the very notion of the modulation envelope. It consists of four independent channels which can be assigned functions made of up to 1000 segments and which can be warped, reversed, and stretched using the simple and intuitive menu system or via each channel’s assignable CV input. Each channel can output functions ranging in time from 0.08 milliseconds to 30 minutes and supports looping and chaining of waveforms, allowing for use as a complex FM source and LFO as well! With all this functionality and more in a mere 10hp, the Zadar is sure to breathe new life into any setup."
+    },
+
+    {
+        "id": 2,
+        "categoryId": 1,
+        "model": "Tape and Microsound",
+        "brand": "Make Noise",
+        "type": "Music Machine",
+        "price": 2120,
+        "stock": 4,
+        "img": "https://firebasestorage.googleapis.com/v0/b/space-cat-synths.appspot.com/o/02%20-akeNoise_Tape-Microsound-Music-Machine.jpg?alt=media&token=dff7511b-4d67-499f-ae1b-eaa6c7fab4e8",
+        "features": "The next evolution of the System Concrete, the Make Noise Tape and Microsound Music Machine combines some of their best modules into a full modular system for experimentation with classic tape music and granular synthesis techniques. With the capability of both synthesizing sound and working with pre-recorded samples, this is a perfect system for sonic adventurers and sound designers."
+    },
+
+    {
+        "id": 3,
+        "categoryId": 1,
+        "model": "Sinfonion",
+        "brand": "ACL",
+        "type": "Complex CV Processor",
+        "price": 1145,
+        "stock": 8,
+        "img": "https://firebasestorage.googleapis.com/v0/b/space-cat-synths.appspot.com/o/03-ACL_Sinfoniun.jpg?alt=media&token=1f4d765b-45bb-4f8f-9314-d8dee71e3de0",
+        "features": "ACL Sinfonion aims to be the ultimate word in the harmonic and melodic control of an entire Eurorack system. The ambitious Sinfonion started as a collaboration between Instruo and Audiophille Circuits, however the final development and polishing as well as the manufacturing is done by the latter. The module comprises of 3 Harmonaig-style quantizers, an arpeggiator and chord sequencer, and a 4-note chord generator plus a handful of useful compositional utility tools and modulation options. Sinfonion bridges the gap between the musician as a conductor and the modular synthesizer as an orchestra."
+    },
+
+    {
+        "id": 4,
+        "categoryId": 1,
+        "model": "DSO",
+        "brand": "Tall Dog Electronics",
+        "type": "Digital Storage Oscilloscope",
+        "price": 125,
+        "stock": 12,
+        "img": "https://firebasestorage.googleapis.com/v0/b/space-cat-synths.appspot.com/o/04-talldogelectronics_dso.jpg?alt=media&token=d5eff0b9-4de2-45c5-9642-d0abbacec445",
+        "features": "With Eurorack, sometimes you need to quickly figure out which voltage is doing what and why that thing is happening—enter the Tall Dog Electronics single-channel Digital Storage Oscilloscope (DSO). The term 'digital storage' is used because the module can save a recent history of samples for analysis, and using the buttons you can easily adjust the vertical and horizontal scaling and alignment to get a big or small realtime picture of what you're patching. At larger time divisions (over 50ms) the DSO automatically goes into rolling mode that gives you a better idea of how slow voltages change over time. Whether you're debugging or just want to peer into the abyss of voltage, the DSO from Tall Dog is a great way to gain some control."
+    },
+
+    {
+        "id": 5,
+        "categoryId": 1,
+        "model": "Dimension MK3",
+        "brand": "ZIQAL",
+        "type": "Wavetable Oscillator",
+        "price": 359,
+        "stock": 8,
+        "img": "https://firebasestorage.googleapis.com/v0/b/space-cat-synths.appspot.com/o/05-ziqal_dimension-mk3.jpg?alt=media&token=65246ac6-96a9-435f-bd91-688eef9dcff7",
+        "features": "Design intense basses and lush pads with ZIQAL's Dimension MK3, a hi-fi wavetable oscillator module with loads of timbres, compatibility, and morphable parameters to work with, updated with a gorgeous new screen. This brilliant display and sturdy push-encoder helps you navigate the deep and ever-expanding nature of Dimension, sporting 25 onboard wavetables with each table consisting of 256 individual waveforms! The fidelity per waveform is massive at 2048 samples with specs of 16-bit/44.1kHz resolution, and the internal engine for further processing runs at 32bit float to be sure your synthesis doesn't clip or distort in an unwanted and gnarly digital way."
+        
+    },
+
+    {
+        "id": 6,
+        "categoryId": 1,
+        "model": "Black Hole DSP2",
+        "brand": "Erica Synths",
+        "type": "Digital Effects",
+        "price": 319,
+        "stock": 12,
+        "img": "https://firebasestorage.googleapis.com/v0/b/space-cat-synths.appspot.com/o/06-ericasynths_blackholedsp2.jpg?alt=media&token=dcd93ce1-75de-496f-85ab-e0ad01cc3f6f",
+        "features": "The Black Hole DSP2 is a redesigned version of one of Erica Synths' most renowned Black series modules. It includes 24 effects developed by Kodek (of Erica Synths) in collaboration with Gary Worsham. Like the rest of the Black Series, DSP2 is specifically oriented towards live performance. Attesting to this fact is the module's ability to store and instantly recall effects paramaters. Each effects has three parameters that can be manipulated, there's an analog Dry/Wet crossfade, and a bitcrusher (labeled Crush) that degrades the sample rate all the way to 1kHz."
+    },
+        
+    {
+        "id": 7,
+        "categoryId": 2,
+        "model": "Easel Command",
+        "brand": "Buchla",
+        "type": "Semi-Modular Analog Synth",
+        "price": 2999,
+        "stock": 4,
+        "img": "https://firebasestorage.googleapis.com/v0/b/space-cat-synths.appspot.com/o/01-Buchla_Easel-Command.jpg?alt=media&token=7b141074-ea3b-4fd0-93f5-3a68c2be39b3",
+        "features": "The Buchla Easel Command Module is a complete, standalone Buchla workflow based on the iconic Music Easel: a synthesizer designed for experimental synthesis and exploratory sound design. Originally part of the Buchla 200 Series, the 208 Store Program Sound Source formed the basis of the original Music Easel, and is responsible for the hallmark sounds of artists like Kaitlyn Aurelia Smith, Charles Cohen, Todd Barton, and others. Now, the Easel Command combines the newly-revised 208C with a desktop enclosure and provides users plenty of options for interfacing, from MIDI and USB connectivity to Eurorack-compatible CV and Gate inputs."
+    },
+
+    {
+        "id": 8,
+        "categoryId": 2,
+        "model": "Quantum MK1",
+        "brand": "Waldorf",
+        "type": "Polyphonic Hybrid Synth",
+        "price": 4799,
+        "stock": 6,
+        "img": "https://firebasestorage.googleapis.com/v0/b/space-cat-synths.appspot.com/o/02-waldorf_quantum.jpg?alt=media&token=3ce035bd-029e-4c28-acb7-1b8697252f4b",
+        "features": "With a polyphonic aftertouch keybed, expanded internal memory, and additional digital filters, Waldorf's Quantum MK2 is the enhanced, definitive version of their flagship analog/digital hybrid keyboard synthesizer. With their roots established in beloved legacy synths like the Microwave, Wave, and Q, Quantum incorporates the latest and greatest Waldrof wavetable technology along with other cutting-edge synthesis methods. And with abundant panel controls, a marvelous touch display, and the Fatar TP/8SK keybed with poly aftertouch, your sounds are always subject to your exacting needs."
+    },
+
+    {
+        "id": 9,
+        "categoryId": 2,
+        "model": "PolyBrute",
+        "brand": "Arturia",
+        "type": "Analog Polyphonic Synth",
+        "price": 2699,
+        "stock": 8,
+        "img": "https://firebasestorage.googleapis.com/v0/b/space-cat-synths.appspot.com/o/03-Arturia_Polybrute.jpg?alt=media&token=53cd72a7-5b1b-4db4-987b-1902544b6ef2",
+        "features": "Arturia's PolyBrute is their flagship polyphonic analog synthesizer, a six-voice bitimbral synth with preset morphing and a host of deep features that make it versatile and unique. Complete with morphing functionality, loads of expressive user controls, and the matrix-style patch routing scheme that made the MatrixBrute so powerful, Arturia have finally delivered an instrument that we have been dreaming about for years: a polyphonic addition to the Brute family of synthesizers. And happily, the addition of these new sonic possibilities and new means of expressive control make it something far greater than we could have expected."
+    },
+
+    {
+        "id": 10,
+        "categoryId": 2,
+        "model": "OB-6",
+        "brand": "Sequential",
+        "type": "6 Voice Analog Synthesizer",
+        "price": 3499,
+        "stock": 4,
+        "img": "https://firebasestorage.googleapis.com/v0/b/space-cat-synths.appspot.com/o/04-sequential_ob-6-keys-2021.jpg?alt=media&token=9ce3251c-a288-4272-932b-3f22d32d6023",
+        "features": "The OB-6 is the result of collaboration between synth legends Dave Smith and Tom Oberheim. Inspired by the latter’s original SEM, the OB-6 features an all-analog signal path comprised of 6 voices (each with 2 VCOs, 1 sub oscillator), the classic Oberheim 2-pole filter (which can vary from lowpass, highpass, bandpass, and notch), a VCA section, and a 49-key keyboard spanning 4 octaves."
+    },
+
+    {
+        "id": 11,
+        "categoryId": 2,
+        "model": "Matriarch Dark",
+        "brand": "Moog",
+        "type": "Analog Paraphonic Synthesizer",
+        "price": 2199,
+        "stock": 6,
+        "img": "https://firebasestorage.googleapis.com/v0/b/space-cat-synths.appspot.com/o/05-Moog_Matriarch-Dark.jpg?alt=media&token=b7b3cacd-4563-4224-a7ab-d588c8855ba9",
+        "features": "Meet the new head of Moog’s household—the Matriarch Dark, the culmination of 50 years of synthesizer legacy from Moog. It draws inspiration from classic modular systems of the '60s and '70s and modern innovation to create a wildly powerful device that begs to pushed into new sonic territories. And best of all, it is now available in a brand new darker color variant that brings back warm memories of the analog devices the Matriarch was born from."
+    },
+
+    {
+        "id": 12,
+        "categoryId": 2,
+        "model": "Pro 3",
+        "brand": "Sequential",
+        "type": "Hybrid Synthesizer",
+        "price": 1999,
+        "stock": 8,
+        "img": "https://firebasestorage.googleapis.com/v0/b/space-cat-synths.appspot.com/o/06-Sequential_Pro3Standard.jpg?alt=media&token=b0e0f967-c30c-4736-a653-f1eceac3c27d",
+        "features": "Sequential's Pro 3 SE is the spiritual successor to the Pro-One and Pro-2, continuing to employ the best aspects of analog and digital technology to provide an uncommonly powerful hybrid workflow. Pro 3 SE offers all the same features as the standard edition Pro 3, but adds a tiltable control panel (a la Minimoog) and high-quality walnut trim, providing a distinct look that stands out on stage and in the studio. Like the Pro-2, the Pro 3 combines analog and digital features into a powerful instrument that can act in either monophonic or paraphonic roles. In the case of the Pro 3, this means the choice of monophonic or three-note paraphonic control of two analog VCOs, one wavetable oscillator, and a multi-mode analog filter section."
+    },
+
+    {
+        "id": 13,
+        "categoryId": 3,
+        "model": "Play",
+        "brand": "Polyend",
+        "type": "Sample-Based Groovebox",
+        "price": 799,
+        "stock": 6,
+        "img": "https://firebasestorage.googleapis.com/v0/b/space-cat-synths.appspot.com/o/01-Polyend_Play_01.jpg?alt=media&token=196ee738-4c9a-466f-b4e5-610699547ec0",
+        "features": "Expanding upon the flexibility and nature of grid-based devices comes Polyend's Play, a 16-track groovebox capable of both sample and MIDI sequencing, performance, and much more. Play supports eight sample tracks and eight polyphonic MIDI tracks, making it more than capable to act as your sequencing hub amongst your studio or live-stage equipment. But if you're just starting out, Play is also a great device to begin with, thanks to its inspiring 3000+ collection of high quality samples that offers immediate access to great-sounding instrument design to complement any setup."
+    },
+
+    {
+        "id": 14,
+        "categoryId": 3,
+        "model": "Syntakt",
+        "brand": "Elektron",
+        "type": "Drum Computer + Synth",
+        "price": 999,
+        "stock": 10,
+        "img": "https://firebasestorage.googleapis.com/v0/b/space-cat-synths.appspot.com/o/02-Elektron_Syntakt_01.jpg?alt=media&token=24be2954-4cb8-4048-a4af-f9184c8e9904",
+        "features": "Elegant form, powerful control, and flexible sound across both analog and digital paradigms—Syntakt, a 12-voice hybrid Drum Computer and Synthesizer, is the culmination of more than 20 years of Elektron instrument design. Packed into the same form factor as the hit Digitakt and Digitone, Syntakt is both familiar and new, delivering everything to be loved about an Elektron device while pushing the envelope with new features. The 12 tracks are split into eight digital and four analog, the latter of which are further divided into three Analog Drum tracks and one Analog Cymbal. But with the new Trig Modifiers and FX Track, you're equipped with more ways to shape your grooves and beats than ever before."
+    },
+
+    {
+        "id": 15,
+        "categoryId": 3,
+        "model": "Circuit Rhythm",
+        "brand": "Novation",
+        "type": "Sample-Based Drum Machine",
+        "price":399,
+        "stock": 12,
+        "img": "https://firebasestorage.googleapis.com/v0/b/space-cat-synths.appspot.com/o/03-Novation_CircuitRhythm_01_4.jpg?alt=media&token=bb0904b1-975e-4eeb-9703-c738fdbbe5dd",
+        "features": "The Circuit Rhythm from Novation is a beat-making machine that is perfect for performers and producers looking to bring their tracks to the next level. The sample-based architecture and straightforward interface help optimize your beats with an intuitive workflow. Load samples from the microSD card or record directly into the Circuit Rhythm using the stereo audio inputs. Then, modify the samples onboard: slice, sculpt, reverse, loop, resample, and play them back chromatically to reinvent even the simplest of samples. Load up samples into the eight tracks, each with 32 steps, chainable to 256 steps per track. The sequencer helps bring your ideas to life, adding grid FX, off-grid swing, probability, and pattern mutation to get your creative juices flowing. Add lush reverb, dynamic delay, pumping sidechain, and a master compressor for emphasis and punch. The encoders add a new level of performability to your tracks, giving you direct access to parameters such as distortion, sample tuning, and both low and high pass filters."
+    },
+
+    {
+        "id": 16,
+        "categoryId": 3,
+        "model": "TR-8S",
+        "brand": "Roland",
+        "type": "Drum Machine",
+        "price": 749,
+        "stock": 12,
+        "img": "https://firebasestorage.googleapis.com/v0/b/space-cat-synths.appspot.com/o/04-roland_tr-8s_01.jpg?alt=media&token=e2530eb7-5586-4486-a05d-57d36d369aff",
+        "features": "The TR-8S from Roland offers a welcome step up from the already-formidable TR-8. It adds sampling, a much deeper effects section, and improved hardware and sequencing power to its predecessor’s tremendous sound quality and unparalleled playability for a perfect blend of retro sounds and modern features."
+    },
+
+    {
+        "id": 17,
+        "categoryId": 3,
+        "model": "drumlogue",
+        "brand": "Korg",
+        "type": "Analog + Digital Drum Machine",
+        "price": 599,
+        "stock": 8,
+        "img": "https://firebasestorage.googleapis.com/v0/b/space-cat-synths.appspot.com/o/05-Korg_drumLogue_01.jpg?alt=media&token=9c52496e-448c-4689-86ab-2618f7515a5d",
+        "features": "The long awaited 'logue drum machine is here—Korg's drumlogue combines analog and digital synthesis and samples into a single box with unprecedented customization opportunities and sequencing power balanced by immediacy and accessibility. Built from the ground up with all-new analog circuitry and digital features, drumlogue aims to offer a one-of-a-kind electronic percussion experience. Add in digital effects, USB host and device functionality, and immensely flexible programming opportunities through the drumlogue SDK, and it's immediately clear that this is a groovebox like no other."
+    },
+
+    {
+        "id": 18,
+        "categoryId": 3,
+        "model": "PERKONS HD-01",
+        "brand": "Erica Synths",
+        "type": "Hybrid Drum Machine + Synth",
+        "price": 2059,
+        "stock": 6,
+        "img": "https://firebasestorage.googleapis.com/v0/b/space-cat-synths.appspot.com/o/06-ericasynths_perkons-hd-01-2022_01.jpg?alt=media&token=992adeb6-d06d-4dbb-a82f-d5bbc3f8a098",
+        "features": "With true boom and clap like a roaring and cracking thunder comes PĒRKONS HD-01, a four-voice drum machine from Erica Synths that's ready to shake you to your core. Rising above its electric blue base, PĒRKONS offers a wealth of control over each voice, and the four-track sequencer and effects sends create a package that's perfect for sculpting skull-crushing drums and intricate rhythms. Each hybrid voice starts as one of three digital sound engines, shaped by eight controls, which then travels through an analog multimode filter, offering highpass, bandpass, and lowpass modes. With parameter automation and an LFO capable of phase modulation and morphing waveforms, you can make your tracks go from static to shock. The sounds of all four voices can be saved to a kit, with 64 kit slots on the unit itself. And with the option of additional SD card memory, preset design becomes easy and expandable."
+    },
+
+    {
+        "id": 19,
+        "categoryId": 4,
+        "model": "MPK249 ",
+        "brand": "Akai",
+        "type": "49-Key MIDI Keyboard",
+        "price": 469,
+        "stock": 12,
+        "img": "https://firebasestorage.googleapis.com/v0/b/space-cat-synths.appspot.com/o/01-akai_mpk249.jpg?alt=media&token=db69fad3-c8ad-475c-866b-c2fb4c03892e",
+        "features": "The Akai MPK249 is a slim, intuitive keyboard controller boasting a 49-note keyboard, 16 backlit MPC trigger pads, 8 assignable faders, and 8 assignable control knobs. There’s also a backlit LCD screen that affords instant visualization of program and sequence parameters as well as knob settings. The unit was designed to be especially intuitive for seamless DAW integration."
+    },
+
+    {
+        "id": 20,
+        "categoryId": 4,
+        "model": "Launchpad Pro Mk3",
+        "brand": "Novation",
+        "type": "MIDI Controller",
+        "price": 349,
+        "stock": 16,
+        "img": "https://firebasestorage.googleapis.com/v0/b/space-cat-synths.appspot.com/o/02-Novation_LaunchpadProMk3.jpg?alt=media&token=b0e433a0-43ac-473f-a4fe-408a8347d35a",
+        "features": "The Launchpad Pro Mk3 is a powerful MIDI controller, perfect for integrating with Ableton Live or hardware MIDI instruments. The deep Ableton integration allows you to control all the most important functions of your session without having to use a mouse."
+    },
+
+    {
+        "id": 21,
+        "categoryId": 4,
+        "model": "BeatStep Pro",
+        "brand": "Arturia",
+        "type": "Performance Sequencer",
+        "price": 299,
+        "stock": 12,
+        "img": "https://firebasestorage.googleapis.com/v0/b/space-cat-synths.appspot.com/o/03-arturia_beatsteppro.jpg?alt=media&token=aa400779-4b5b-4395-aa6d-99298c4d7880",
+        "features": "The Arturia BeatStep Pro is an intuitive and highly capable performance tool that affords expressive creative control over MIDI, USB, CV/Gate, and DIN Sync gear."
+    },
+
+    {
+        "id": 22,
+        "categoryId": 4,
+        "model": "KeyLab 49 MkII",
+        "brand": "Arturia",
+        "type": "MIDI Controller Keyboard",
+        "price": 449,
+        "stock": 16,
+        "img": "https://firebasestorage.googleapis.com/v0/b/space-cat-synths.appspot.com/o/04-arturia_keylab49mkii-black.jpg?alt=media&token=1fa490d4-2473-45a1-9a12-97f6163375b8",
+        "features": "Arturia's KeyLab 49 is a powerful MIDI controller optimized for a creative hands-on experience. The controller features a 49-note velocity-sensitive keyboard with aftertouch and over 5000 TAE presets. The controller allows unprecedented access to Arturia's Analog Lab software, with pre-assigned controls for maximum efficiency. Simply connect the keyboard to a DAW and instantly control all crucial parameters of the software. But the possibilities do not end there: the KeyLab can also be used as a universal MIDI controller for any third party software or hardware."
+    },
+
+    {
+        "id": 23,
+        "categoryId": 4,
+        "model": "APC40 MK2 Ableton",
+        "brand": "Akai",
+        "type": "Performance Controler",
+        "price": 299,
+        "stock": 24,
+        "img": "https://firebasestorage.googleapis.com/v0/b/space-cat-synths.appspot.com/o/05-akai_apc40mk2.jpg?alt=media&token=10b5bfec-7c42-4ae4-b3ab-6971619cb7f0",
+        "features": "The APC40 mk2 is a powerful controller designed exclusively for Ableton Live. When creating the device, Akai implemented over five years of user feedback to compound the unit’s functionality, potential, and overall workflow. Cosmetically, the unit boasts a 5x8 RGB LED matrix for engaging Ableton’s Clip Launch mode, an A/B crossfader that is assignable to any parameter, 8 channel faders, 8 rotary knobs, and a send button."
+    },
+
+    {
+        "id": 24,
+        "categoryId": 4,
+        "model": "49SL MkIII",
+        "brand": "Novation",
+        "type": "MIDI Controller Keyboard",
+        "price": 649,
+        "stock": 12,
+        "img": "https://firebasestorage.googleapis.com/v0/b/space-cat-synths.appspot.com/o/06-novation_49slmkiii.jpg?alt=media&token=59fd1012-db6d-460e-8fc8-f1ad1cc1dcce",
+        "features": "The 49SL MkIII from Novation represents the next generation of hardware MIDI controllers. It features a sturdy semi-weighted keybed with a super-high scan rate for maximum playability, but why stop there? Using either the keys or the SL's 16 velocity-sensitive pads, users can easily program and minutely tweak eight sequencer tracks, arpeggiate, record parameter automation, and more. Onboard OLED screens allow for immediate visualization of parameters on connected DAWs and MIDI-equipped hardware, and user control templates can be saved locally or on the cloud for worldwide recall. And for users staying strictly in the hardware realm or supplementing a virtual studio with outboard gear, extensive MIDI control and two channels of CV, Gate, and Mod makes creating music with funky vintage synths easier than ever before."
+    }    
+
+]

@@ -1,0 +1,65 @@
+.margin-top-1{
+    margin-top: 1rem;
+}
+
+.margin-n{
+  margin-right: 8px;
+}
+
+.container-fluid {
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 1400px; 
+  }
+
+.flex-container {
+    padding: 0;
+    margin: 1rem;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  
+.container-fluid-contact {
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 930px; 
+  }
+
+.cardProducts {
+    justify-content: center;
+    align-items: center;
+    margin: 4rem;
+  }
+
+.cardProduct {
+    width: 18rem;
+    margin: 6px;
+}
+
+.itemDetail {
+    max-width: 600px;
+}
+
+.cartContainer {
+    margin: 2rem;
+}
+
+.divButtons {
+    margin: 1rem;
+}
+
+.background-cart {
+    background-color: #696969;
+}
+
+.padding-b1{
+    padding-bottom: 8px;
+}
+
+.margin-total{
+  margin-left: 12px;
+  margin-right: 12px;
+}
